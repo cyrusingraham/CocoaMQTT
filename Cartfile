@@ -1,2 +1,2 @@
-github "robbiehanson/CocoaAsyncSocket" "7.6.3"
+github "Jamf/CocoaAsyncSocket" "alpn"
 github "daltoniam/Starscream" >= 3.0.2
